@@ -1,2 +1,2 @@
 # Software engineer 
-I use go, python and javascript programming languages 
+I use node, python and javascript programming languages 
